@@ -25,6 +25,6 @@
         url("https://db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.svg#Circular Std Medium") format("svg");
 }
 
-div[data-highcharts-chart="1"] {
+div[data-highcharts-chart] {
     overflow: visible !important;
 }
